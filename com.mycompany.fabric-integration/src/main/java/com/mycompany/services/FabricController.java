@@ -8,7 +8,7 @@ public class FabricController {
 	
 	@GetMapping("/hello")
 	public String hello() {
-		return "hellow";
+		return "hello";
 	}
 
 }
